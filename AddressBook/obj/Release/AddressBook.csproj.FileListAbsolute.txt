@@ -1,0 +1,9 @@
+C:\Users\RedWraith\source\repos\AddressBook\AddressBook\bin\Release\AddressBook.exe.config
+C:\Users\RedWraith\source\repos\AddressBook\AddressBook\bin\Release\AddressBook.exe
+C:\Users\RedWraith\source\repos\AddressBook\AddressBook\bin\Release\AddressBook.pdb
+C:\Users\RedWraith\source\repos\AddressBook\AddressBook\obj\Release\AddressBook.Form1.resources
+C:\Users\RedWraith\source\repos\AddressBook\AddressBook\obj\Release\AddressBook.Properties.Resources.resources
+C:\Users\RedWraith\source\repos\AddressBook\AddressBook\obj\Release\AddressBook.csproj.GenerateResource.cache
+C:\Users\RedWraith\source\repos\AddressBook\AddressBook\obj\Release\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\RedWraith\source\repos\AddressBook\AddressBook\obj\Release\AddressBook.exe
+C:\Users\RedWraith\source\repos\AddressBook\AddressBook\obj\Release\AddressBook.pdb
