@@ -34,6 +34,9 @@ namespace AddressBook
 
             }
 
+
+            // enter key will click save
+            this.AcceptButton = btnSave;
         }
 
 
@@ -235,8 +238,15 @@ namespace AddressBook
             btnSave.Enabled = true;
             btnAddPerson.Enabled = false;
 
+            txtBoxFirstName.Enabled = true;
+            txtBoxLastName.Enabled = true;
+            txtBoxAddress.Enabled = true;
+
             // always add new contact to the next Unused ID
             lblID.Text = (listView.Items.Count + 1).ToString();
+
+            //txtBoxFirstName.Select();
+            this.txtBoxFirstName.Focus();
         }
 
 
@@ -264,6 +274,10 @@ namespace AddressBook
             btnCancel.Enabled = false;
             btnRemove.Enabled = false;
             btnSave.Enabled = false;
+
+            txtBoxFirstName.Enabled = false;
+            txtBoxLastName.Enabled = false;
+            txtBoxAddress.Enabled = false;
         }
 
 
@@ -496,6 +510,10 @@ namespace AddressBook
             btnCancel.Enabled = true;
             btnRemove.Enabled = true;
             btnSave.Enabled = true;
+
+            txtBoxFirstName.Enabled = true;
+            txtBoxLastName.Enabled = true;
+            txtBoxAddress.Enabled = true;
         }
 
 

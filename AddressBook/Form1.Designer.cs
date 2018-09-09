@@ -188,10 +188,11 @@
             // 
             // txtBoxFirstName
             // 
+            this.txtBoxFirstName.Enabled = false;
             this.txtBoxFirstName.Location = new System.Drawing.Point(115, 50);
             this.txtBoxFirstName.Name = "txtBoxFirstName";
             this.txtBoxFirstName.Size = new System.Drawing.Size(216, 20);
-            this.txtBoxFirstName.TabIndex = 1;
+            this.txtBoxFirstName.TabIndex = 0;
             // 
             // label2
             // 
@@ -205,10 +206,11 @@
             // 
             // txtBoxLastName
             // 
+            this.txtBoxLastName.Enabled = false;
             this.txtBoxLastName.Location = new System.Drawing.Point(115, 89);
             this.txtBoxLastName.Name = "txtBoxLastName";
             this.txtBoxLastName.Size = new System.Drawing.Size(216, 20);
-            this.txtBoxLastName.TabIndex = 3;
+            this.txtBoxLastName.TabIndex = 1;
             // 
             // label3
             // 
@@ -232,10 +234,11 @@
             // 
             // txtBoxAddress
             // 
+            this.txtBoxAddress.Enabled = false;
             this.txtBoxAddress.Location = new System.Drawing.Point(115, 128);
             this.txtBoxAddress.Name = "txtBoxAddress";
             this.txtBoxAddress.Size = new System.Drawing.Size(216, 20);
-            this.txtBoxAddress.TabIndex = 5;
+            this.txtBoxAddress.TabIndex = 3;
             // 
             // label5
             // 
